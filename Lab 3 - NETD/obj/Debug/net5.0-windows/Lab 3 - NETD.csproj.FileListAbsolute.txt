@@ -1,0 +1,29 @@
+C:\Users\shivh\source\repos\Lab 3 - NETD\obj\Debug\net5.0-windows\Lab 3 - NETD.csproj.AssemblyReference.cache
+C:\Users\shivh\source\repos\Lab 3 - NETD\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\shivh\source\repos\Lab 3 - NETD\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\shivh\source\repos\Lab 3 - NETD\obj\Debug\net5.0-windows\Lab 3 - NETD_MarkupCompile.cache
+C:\Users\shivh\source\repos\Lab 3 - NETD\obj\Debug\net5.0-windows\Lab 3 - NETD_MarkupCompile.lref
+C:\Users\shivh\source\repos\Lab 3 - NETD\bin\Debug\net5.0-windows\Lab 3 - NETD.exe
+C:\Users\shivh\source\repos\Lab 3 - NETD\bin\Debug\net5.0-windows\Lab 3 - NETD.deps.json
+C:\Users\shivh\source\repos\Lab 3 - NETD\bin\Debug\net5.0-windows\Lab 3 - NETD.runtimeconfig.json
+C:\Users\shivh\source\repos\Lab 3 - NETD\bin\Debug\net5.0-windows\Lab 3 - NETD.runtimeconfig.dev.json
+C:\Users\shivh\source\repos\Lab 3 - NETD\bin\Debug\net5.0-windows\Lab 3 - NETD.dll
+C:\Users\shivh\source\repos\Lab 3 - NETD\bin\Debug\net5.0-windows\ref\Lab 3 - NETD.dll
+C:\Users\shivh\source\repos\Lab 3 - NETD\bin\Debug\net5.0-windows\Lab 3 - NETD.pdb
+C:\Users\shivh\source\repos\Lab 3 - NETD\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\shivh\source\repos\Lab 3 - NETD\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\shivh\source\repos\Lab 3 - NETD\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\shivh\source\repos\Lab 3 - NETD\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\shivh\source\repos\Lab 3 - NETD\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\shivh\source\repos\Lab 3 - NETD\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\shivh\source\repos\Lab 3 - NETD\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\shivh\source\repos\Lab 3 - NETD\obj\Debug\net5.0-windows\Lab 3 - NETD.g.resources
+C:\Users\shivh\source\repos\Lab 3 - NETD\obj\Debug\net5.0-windows\Lab 3 - NETD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivh\source\repos\Lab 3 - NETD\obj\Debug\net5.0-windows\Lab 3 - NETD.AssemblyInfoInputs.cache
+C:\Users\shivh\source\repos\Lab 3 - NETD\obj\Debug\net5.0-windows\Lab 3 - NETD.AssemblyInfo.cs
+C:\Users\shivh\source\repos\Lab 3 - NETD\obj\Debug\net5.0-windows\Lab 3 - NETD.csproj.CoreCompileInputs.cache
+C:\Users\shivh\source\repos\Lab 3 - NETD\obj\Debug\net5.0-windows\Lab 3 - NETD.csproj.CopyComplete
+C:\Users\shivh\source\repos\Lab 3 - NETD\obj\Debug\net5.0-windows\Lab 3 - NETD.dll
+C:\Users\shivh\source\repos\Lab 3 - NETD\obj\Debug\net5.0-windows\ref\Lab 3 - NETD.dll
+C:\Users\shivh\source\repos\Lab 3 - NETD\obj\Debug\net5.0-windows\Lab 3 - NETD.pdb
+C:\Users\shivh\source\repos\Lab 3 - NETD\obj\Debug\net5.0-windows\Lab 3 - NETD.genruntimeconfig.cache
